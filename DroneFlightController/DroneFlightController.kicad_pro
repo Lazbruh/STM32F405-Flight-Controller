@@ -429,13 +429,29 @@
         "uuid": "e55d50f9-036e-4a66-bcbf-7f0becf3a263"
       }
     ],
-    "used_designators": "C1-21,R1-4,J1,#PWR1-24,U1-6",
+    "used_designators": "#FLG1-5,J1,D1-2,#PWR1-31,C1-21,R1-4,U1-6",
     "variants": []
   },
   "sheets": [
     [
       "e55d50f9-036e-4a66-bcbf-7f0becf3a263",
       "DroneFlightController"
+    ],
+    [
+      "9dc34d3b-06fe-4190-aed9-c28017cc5d0c",
+      "MCU"
+    ],
+    [
+      "f83e0906-53d3-447b-a21d-8f0b35ce0ac7",
+      "Sensors"
+    ],
+    [
+      "5479bb0a-49cc-4727-b80d-9a28bebf4bac",
+      "Communication_Interface"
+    ],
+    [
+      "1c17a89b-7844-41b4-aef0-b9ebbce82f94",
+      "Power_Supply"
     ]
   ],
   "text_variables": {},
